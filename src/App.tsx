@@ -10,8 +10,7 @@ const App = () => {
 
 [![](https://avatars.githubusercontent.com/u/1680273?s=80&v=4)](https://avatars.githubusercontent.com/u/1680273?v=4)
 
-1. sdfsdfsdf
-2. sdfsdf
+
 
 \`\`\`javascript
 import React from "react";
